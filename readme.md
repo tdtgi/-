@@ -1,5 +1,5 @@
 ## 模型下载
-```pip install modelscope```
+```pip install modelscope```/n
 ```python down.py```
 ## 模型地址
 ```https://modelscope.cn/models/Shanghai_AI_Laboratory/internlm-xcomposer2-4khd-7b/summary```
